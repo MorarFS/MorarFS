@@ -2,8 +2,6 @@
 
 **Historian · National University of Singapore**
 
-<img src="https://morarfs.github.io/portrait.jpg" alt="Florin-Stefan Morar" width="180" align="right" />
-
 I am Assistant Professor of History and Director of the History+AI Lab at NUS. My research connects global history, the history of science, and computational humanities. I study how knowledge travels across cultures and changes through technology.
 
 I received my PhD in the History of Science from Harvard University in 2019.
